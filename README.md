@@ -20,3 +20,11 @@ npm install ph-barangay
 ## License
 
 MIT
+
+
+## Usage
+
+```typescript
+import { } from 'ph-barangay';
+// See API section for available functions
+```
